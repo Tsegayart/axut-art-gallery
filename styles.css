@@ -1,0 +1,18 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: #0a0a0a;
+  color: white;
+  text-align: center;
+  padding: 2rem;
+}
+.gallery {
+  display: grid;
+  gap: 2rem;
+  justify-content: center;
+  margin-top: 3rem;
+}
+img {
+  max-width: 100%;
+  border: 3px solid #3a0ca3;
+  border-radius: 12px;
+}
